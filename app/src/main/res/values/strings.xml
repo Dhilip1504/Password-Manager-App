@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button">Button</string>
+    <string name="Use_fingerprint_to_access_the_Safe">Use fingerprint to access the Safe</string>
+    <string name="todo">TODO</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="ac">AC</string>
+    <string name="add_credential">Add Credential</string>
+</resources>
